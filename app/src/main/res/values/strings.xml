@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">tmpr</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="filter">Filters</string>
+    <string name="register">Schrijf je in</string>
+    <string name="login">Inloggin</string>
+    <string name="back">Back</string>
+</resources>
